@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "214375846041",
+    "firebase_url": "https://auth-2001a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-2001a",
+    "storage_bucket": "auth-2001a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214375846041:android:35bd45eedcfc86f6b22808",
+        "android_client_info": {
+          "package_name": "com.example.sneakerseekers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214375846041-1126c02qt2l2h1q3navi2v5rug448agl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCOi1fxmeLdX9JXA4dArRb4irtiBXvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214375846041-1126c02qt2l2h1q3navi2v5rug448agl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214375846041:android:7ef4138159deec84b22808",
+        "android_client_info": {
+          "package_name": "com.example.sneakerseekersv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214375846041-1126c02qt2l2h1q3navi2v5rug448agl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCOi1fxmeLdX9JXA4dArRb4irtiBXvEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214375846041-1126c02qt2l2h1q3navi2v5rug448agl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
